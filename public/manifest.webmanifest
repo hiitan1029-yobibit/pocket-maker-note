@@ -1,0 +1,18 @@
+{
+  "name": "いつも買ってるあのメーカー ポケット帳",
+  "short_name": "メーカー帳",
+  "description": "いつものメーカー・サイズ・写真を買い物中に確認するポケット帳です。",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#e0f2fe",
+  "theme_color": "#0f766e",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
